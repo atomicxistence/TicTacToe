@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atomic_games.TicTacToe", "atomic-tic-tac-toe\atomic_games.TicTacToe.csproj", "{08250D8D-EDE6-4BA8-AA4A-D5E265D1465A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08250D8D-EDE6-4BA8-AA4A-D5E265D1465A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08250D8D-EDE6-4BA8-AA4A-D5E265D1465A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08250D8D-EDE6-4BA8-AA4A-D5E265D1465A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08250D8D-EDE6-4BA8-AA4A-D5E265D1465A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
